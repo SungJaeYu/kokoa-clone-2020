@@ -1,3 +1,4 @@
 #Kokoa Clone 2020
 
-Css got so much better!
+First Project
+It began on August 25, 2020.
